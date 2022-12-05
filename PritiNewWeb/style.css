@@ -1,0 +1,309 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.top-head{
+	background-color: #9C623E;
+	height: 27px;
+}
+header{
+	background-color: #F5EFEB;
+}
+.home-page{
+	background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+	position: relative;
+}
+.year120{
+	width: 149px;
+	height: 149px;
+	border-radius: 15px;
+	background-color: #F3E3D9;
+	padding-top: 45px;
+	margin-top: 68px;
+}
+.img_year120{
+	width: 60px;
+	height: 60px;
+	background: white;
+	margin-left: 45px;
+	border-radius: 8px;
+
+}
+.img_year120 img{
+	padding-top: 20px;
+
+}
+.home-page-handing{
+	font-size: 45px;
+	font-weight: 500;
+	font-family: 'Alkalami', serif;
+	color: white;
+	text-transform: uppercase;
+	padding-top: 132px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.mousecontrol{
+	width: 32px;
+	height: 51px;
+	border: 1px solid black;
+	border-radius: 84px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.mousecontrol2{
+	width: 4px;
+	height: 10px;
+	border: 1px solid black;
+	border-radius: 84px;
+	padding-bottom: 10px;
+	margin-bottom: 23px;
+}
+
+.year120_old{
+	width: 149px;
+	height: 149px;
+	border-radius: 15px;
+	background-color: #F3E3D9;
+	padding-top: 45px;
+	margin-top: 53px;
+}
+.disover-now button{
+	background-color: white;
+	color: #492712;
+}
+
+.rectangleOld img{
+	position: relative;
+	left: 53px;
+	top: -57px;
+}
+
+.location{
+	background: white;
+	position: absolute;
+	width: 970px;
+	padding-bottom: 30px;
+	left: 17%;
+	bottom: -52px;
+	border-radius: 13px;
+
+}
+.norway{
+	border: none;
+	background: white;
+	color: #212121;
+	padding-top: 12px;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 23px;
+	letter-spacing: 0em;
+	text-align: left;
+	
+
+}
+
+.home-page-search button{
+	background: #9C623E;
+	border: none;
+	height: 47px;
+	width: 170px;
+	border-radius: 6px;
+	padding: 10px;
+	margin-right: 31px;
+
+}
+
+.product_slider{
+	width: 70%;
+	height: 163px;
+	display: flex;
+	border-radius: 16px;
+	background-color: #DBDEE6;
+	justify-content: center;
+	align-items: center;
+}
+.product_slider img{
+	width: 115px !important;
+	height: 114px;
+
+}
+
+.owl-dot span {
+	display: none !important;
+}
+
+.collections h2{
+	color: #9C623E;
+	font-family: 'Alkalami', serif;
+}
+
+.collections{
+	position: relative;
+}
+.collections button{
+	color: #9C623E;
+	font-family: 'Alkalami', serif;
+}
+.collections button i{
+	display: none;
+}
+.bid_now{
+	background-color: #9C623E !important;
+	border: none !important;
+}
+.color_297{
+	color: #11862B;
+}
+.card-title{
+	color: #9C623E !important;
+}
+.but_it_now button{
+	z-index: 9999;
+	border: none;
+	position: relative;
+	bottom: -40px;
+	transition: 1s;	
+}
+.card{
+	overflow: hidden;
+	margin: auto;
+
+}
+.card:hover .but_it_now button{
+	bottom: 0px;
+	transform: scale(1.5);
+	font-size: 12px !important;
+
+	
+	
+}
+
+
+.card:hover{
+	box-shadow: 0px 0px 5px 1px black;
+}
+.card img{
+	width: 155px !important;
+	height: 202.77px !important;
+	margin: auto;
+}
+.load_more{
+	background: #9C623E !important;
+	color: white !important;
+	margin-top: 30px !important;
+}
+.slidernext .owl-nav {
+	margin-top: 10px;
+	display: block !important;
+} 
+.slidernext .owl-prev{
+	background-color: #292D32 !important;
+	color: white !important;
+	width: 50px;
+	height: 50px;
+	border-radius: 50% !important;
+	position: absolute;
+	left: -7px;
+	top: 186px;
+}
+.slidernext .owl-prev span{
+	font-size: 60px !important;
+	top: 7px;
+	position: absolute;
+	top: -27px;
+	left: 14px;
+}
+.slidernext .owl-next{
+	background-color: #292D32 !important;
+	color: white !important;
+	width: 50px;
+	height: 50px;
+	border-radius: 50% !important;
+	position: absolute;
+	top: 186px;
+	right: 0px;
+}
+.slidernext .owl-next span{
+	font-size: 60px !important;
+	position: absolute;
+	top: -27px;
+	left: 19px;
+}
+.start_background{
+	background: #9C623E;
+	display: flex;
+}
+.disover-nows button{
+	background: white;
+	color: black !important;
+}
+.pink_backgourd{
+	background: url("images/Rectangle 10.png") no-repeat;
+	height: 249px;
+}
+.pink_backgourd_1{
+	width: 60px !important;
+	height: 60px;
+	background: white;
+	border-radius: 8px;
+	padding: 15px;
+}
+.bid_now_4{
+	position: absolute;
+	z-index: 9999999;
+	top: 162px;
+	width: 95%;
+	opacity: 0;
+	transition: 2s;
+}
+
+.dressing:hover .bid_now_4{
+	position: absolute;
+	opacity: 1;
+	z-index: 9999999;
+	top: 162px;
+	width: 95%;
+}
+.dressing{
+	height: 206px;
+	width: 370px !important;
+	border-radius: 10px;
+	position: relative;
+	margin-right: 40px;
+	margin-top: 40px !important;
+}
+.dressing:hover{
+	box-shadow: 0px 0px 5px 1px black !important;	
+}
+
+.best_colorful_lamp{
+	width: 570px !important;
+	height: 195px;
+	border-radius: 10px;
+}
+.best_colorful_lamp img{
+	width: 177px !important;
+	height: 177px !important;
+	margin-top: 18px;
+
+}
+.footer-logo{
+	text-align: center;
+	background: #9C623E;
+	color: white;
+	width: 31px !important;
+	height: 31px !important;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
